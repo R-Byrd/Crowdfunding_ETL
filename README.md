@@ -1,7 +1,4 @@
 # Crowdfunding_ETL
 
-Completed the following Steps:
+Diagram created using http://quickdatabasediagrams.com can be viewed at https://app.quickdatabasediagrams.com/#/d/ZiLPlS
 
-Create the Category and Subcategory DataFrames
-Create the Campaign DataFrame
-Create the Contacts DataFrame
